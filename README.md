@@ -53,6 +53,9 @@ The dataset was cleaned and transformed using **Power Query (M)** by:
   - Workday Type (Weekday/Weekend)
   - Time Period (Morning, Afternoon, Evening, Night)
 
+## Dashboard preview
+<img width="848" height="357" alt="image" src="https://github.com/user-attachments/assets/5182e83e-c170-4b98-9b3a-88252775e73c" />
+
 ## 🛠 Tools & Technologies
 
 - Microsoft Excel
